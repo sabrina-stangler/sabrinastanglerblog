@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`${social?.youtube || ``}`}>
+          <a href="https://www.youtube.com/channel/UCaMedM3OImbFAHkavO4rfNA">
             I also make videos on YouTube
           </a>
         </p>
