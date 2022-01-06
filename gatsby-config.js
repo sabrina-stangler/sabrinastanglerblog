@@ -3,12 +3,13 @@ module.exports = {
     title: `Sabrina's Blog`,
     author: {
       name: `Sabrina Stangler`,
-      summary: `who lives in Milwaukee, WI and has cats`,
+      summary: `who lives in Milwaukee, WI, works as a Software Goon at RokkinCat, LLC, and has 2 adorable cats.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Sabrina's personal blog for my hot takes and money moves.`,
+    siteUrl: `https://sabrinastanglersupercoolblog.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sabrina-stangler`,
+      youtube: `https://www.youtube.com/channel/UCaMedM3OImbFAHkavO4rfNA`
     },
   },
   plugins: [
